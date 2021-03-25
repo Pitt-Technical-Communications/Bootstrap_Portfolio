@@ -20,7 +20,7 @@ While not necessarily required for every computer scientist, many STEM workers l
 
 > If you don't have any blogs or publications, don't worry about it! It is incredibly easy to remove that page. Follow the instructions below to find out how.
 
-1. Delete `src/publications.html(src/work.html)`
+1. Delete src/publications.html(src/work.html)
 1. Remove **Publications** from the nav-bar.
 ```html
 <ul class="nav navbar-nav">
