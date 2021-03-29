@@ -48,4 +48,4 @@ This is a good place to talk about specific work you've done, either while emplo
 ## Who Are We?
 **Jacob McAfoos** is a second semester senior at the University of Pittsburgh. He is majoring in computer science, and is going to be working in software development at Cigna in 2021. He considers himself to be a huge nerd and enjoys playing board games and dungeons and dragons.
 
-YOUR SENTANCES HERE
+YOUR SENTENCES HERE
